@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vg5qX79bYUvipQdKjpibRIvkraj05nYD6B4FPti7G8nFQMKtTvsO+I6hlfsv2c+2iLt3OCxsdtYwpeordMswKw==",
+  "success": true,
+  "projectFilePath": "C:\\Demo\\AwsDotNetEventSystem\\AwsPubConsoleApp\\ConsolePubAppAws\\ConsolePubAppAws\\ConsolePubAppAws.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\www.abcom.in\\.nuget\\packages\\awssdk.core\\3.7.300.24\\awssdk.core.3.7.300.24.nupkg.sha512",
+    "C:\\Users\\www.abcom.in\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.300.24\\awssdk.simplenotificationservice.3.7.300.24.nupkg.sha512"
+  ],
+  "logs": []
+}

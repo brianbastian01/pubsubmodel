@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsolePubAppAws/1.0.0": {
+        "dependencies": {
+          "AWSSDK.SimpleNotificationService": "3.7.300.24"
+        },
+        "runtime": {
+          "ConsolePubAppAws.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.300.24": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.300.24"
+          }
+        }
+      },
+      "AWSSDK.SimpleNotificationService/3.7.300.24": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.300.24"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.SimpleNotificationService.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.300.24"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolePubAppAws/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.300.24": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kpdUCC/BsMHx+rfUblpHwGVOZe7eKivUYsArvlLmOOxD9YK9TsPiBx6Pxh8BwjOhopX605nnuLncoTSlBC5u7Q==",
+      "path": "awssdk.core/3.7.300.24",
+      "hashPath": "awssdk.core.3.7.300.24.nupkg.sha512"
+    },
+    "AWSSDK.SimpleNotificationService/3.7.300.24": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8rPWSkvf3nNnlGiNuDEEYVjiwmKytJTKkfltU4gQ1bGYXS7nxdCfVqmFYJ6UcSF6TCSwysLyi8JiYA9Aybj5KQ==",
+      "path": "awssdk.simplenotificationservice/3.7.300.24",
+      "hashPath": "awssdk.simplenotificationservice.3.7.300.24.nupkg.sha512"
+    }
+  }
+}
